@@ -1,7 +1,7 @@
 baseurl      = "https://p4cx.github.io/"
 title        = "p4cx blog"
 languageCode = "en-us"
-theme        = "hello-friend-ng"
+theme        = "hello-friend"
 paginate     = 10
 publishDir = "./docs"
 
